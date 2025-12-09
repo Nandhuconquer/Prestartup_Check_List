@@ -1,0 +1,29 @@
+// android/build.gradle
+
+plugins {
+    // Android Gradle plugin
+    id("com.android.application") version "8.5.2" apply false
+
+    // React Native Gradle plugin
+    // ⚠️ Use the same version as your react-native in package.json
+    // e.g. if "react-native": "0.76.6", then use "0.76.6"
+    id("com.facebook.react") version "0.76.6" apply false
+
+    // Kotlin Android plugin
+    id("org.jetbrains.kotlin.android") version "1.9.24" apply false
+}
+
+ext {
+    buildToolsVersion = "35.0.0"
+    minSdkVersion = 24
+    compileSdkVersion = 35
+    targetSdkVersion = 35
+    ndkVersion = "27.1.12297006"
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
