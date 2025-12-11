@@ -1,26 +1,26 @@
 {
-  "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List",
-  "reactNativePath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native",
+  "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List",
+  "reactNativePath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native",
   "reactNativeVersion": "0.80",
   "dependencies": {
     "@react-native-async-storage/async-storage": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/@react-native-async-storage/async-storage",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/@react-native-async-storage/async-storage",
       "name": "@react-native-async-storage/async-storage",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/@react-native-async-storage/async-storage/RNCAsyncStorage.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/@react-native-async-storage/async-storage/RNCAsyncStorage.podspec",
           "version": "2.2.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/@react-native-async-storage/async-storage/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/@react-native-async-storage/async-storage/android",
           "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
           "packageInstance": "new AsyncStoragePackage()",
           "buildTypes": [],
           "libraryName": "rnasyncstorage",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -29,22 +29,22 @@
       }
     },
     "react-native-app-auth": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-app-auth",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-app-auth",
       "name": "react-native-app-auth",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-app-auth/react-native-app-auth.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-app-auth/react-native-app-auth.podspec",
           "version": "8.1.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-app-auth/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-app-auth/android",
           "packageImportPath": "import com.rnappauth.RNAppAuthPackage;",
           "packageInstance": "new RNAppAuthPackage()",
           "buildTypes": [],
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-app-auth/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-app-auth/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -53,22 +53,22 @@
       }
     },
     "react-native-linear-gradient": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-linear-gradient",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-linear-gradient",
       "name": "react-native-linear-gradient",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-linear-gradient/BVLinearGradient.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-linear-gradient/BVLinearGradient.podspec",
           "version": "2.8.3",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-linear-gradient/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-linear-gradient/android",
           "packageImportPath": "import com.BV.LinearGradient.LinearGradientPackage;",
           "packageInstance": "new LinearGradientPackage()",
           "buildTypes": [],
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-linear-gradient/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-linear-gradient/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -77,23 +77,23 @@
       }
     },
     "react-native-reanimated": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-reanimated",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-reanimated",
       "name": "react-native-reanimated",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-reanimated/RNReanimated.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-reanimated/RNReanimated.podspec",
           "version": "4.2.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-reanimated/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-reanimated/android",
           "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
           "packageInstance": "new ReanimatedPackage()",
           "buildTypes": [],
           "libraryName": "rnreanimated",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -102,17 +102,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-safe-area-context",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
           "version": "5.6.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-safe-area-context/android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -121,7 +121,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -130,17 +130,17 @@
       }
     },
     "react-native-screens": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-screens",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-screens",
       "name": "react-native-screens",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-screens/RNScreens.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-screens/RNScreens.podspec",
           "version": "4.18.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-screens/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-screens/android",
           "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
           "packageInstance": "new RNScreensPackage()",
           "buildTypes": [],
@@ -160,7 +160,7 @@
             "RNSBottomTabsComponentDescriptor",
             "RNSSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -169,17 +169,17 @@
       }
     },
     "react-native-svg": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-svg",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-svg",
       "name": "react-native-svg",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-svg/RNSVG.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-svg/RNSVG.podspec",
           "version": "15.15.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-svg/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-svg/android",
           "packageImportPath": "import com.horcrux.svg.SvgPackage;",
           "packageInstance": "new SvgPackage()",
           "buildTypes": [],
@@ -215,7 +215,7 @@
             "RNSVGTSpanComponentDescriptor",
             "RNSVGUseComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -224,23 +224,23 @@
       }
     },
     "react-native-vector-icons": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-vector-icons",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-vector-icons",
       "name": "react-native-vector-icons",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-vector-icons/RNVectorIcons.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-vector-icons/RNVectorIcons.podspec",
           "version": "10.3.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-vector-icons/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-vector-icons/android",
           "packageImportPath": "import com.oblador.vectoricons.VectorIconsPackage;",
           "packageInstance": "new VectorIconsPackage()",
           "buildTypes": [],
           "libraryName": "RNVectorIconsSpec",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -249,23 +249,23 @@
       }
     },
     "react-native-worklets": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets",
       "name": "react-native-worklets",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets/RNWorklets.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets/RNWorklets.podspec",
           "version": "0.7.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets/android",
           "packageImportPath": "import com.swmansion.worklets.WorkletsPackage;",
           "packageInstance": "new WorkletsPackage()",
           "buildTypes": [],
           "libraryName": "rnworklets",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -274,23 +274,23 @@
       }
     },
     "react-native-worklets-core": {
-      "root": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets-core",
+      "root": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core",
       "name": "react-native-worklets-core",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets-core/react-native-worklets-core.podspec",
+          "podspecPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/react-native-worklets-core.podspec",
           "version": "1.6.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets-core/android",
+          "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android",
           "packageImportPath": "import com.worklets.WorkletsCorePackage;",
           "packageInstance": "new WorkletsCorePackage()",
           "buildTypes": [],
           "libraryName": "RNWorkletsSpec",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/node_modules/react-native-worklets-core/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -461,7 +461,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List"
+          "default": "/Users/bvdev/CheckList_Main/Prestartup_Check_List"
         },
         {
           "name": "--platform <string>",
@@ -761,7 +761,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/ios",
+      "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/ios",
       "xcodeProject": {
         "name": "PreStartUpCheckList.xcodeproj",
         "path": ".",
@@ -770,7 +770,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/bvdev/Downloads/Pre_StartUp_CheckList/PreStartUpCheck_List/android",
+      "sourceDir": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/android",
       "appName": "app",
       "packageName": "com.prestartupchecklist",
       "applicationId": "com.prestartupchecklist",

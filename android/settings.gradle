@@ -1,8 +1,8 @@
 pluginManagement {
     repositories {
+        gradlePluginPortal()
         google()
         mavenCentral()
-        gradlePluginPortal()
     }
     includeBuild("../node_modules/@react-native/gradle-plugin")
 }
@@ -17,3 +17,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
 
 rootProject.name = "PreStartUpCheckList"
 include(":app")
+
+include(":react-native-reanimated")
+project(":react-native-reanimated").projectDir = file("../node_modules/react-native-reanimated/android")
+

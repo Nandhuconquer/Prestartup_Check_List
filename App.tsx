@@ -16,6 +16,7 @@ import { RootStackParamList } from './src/navigation/types';
 import ProfilesScreen from './src/screens/ProfileScreen';
 import UserLoginScreen from './src/screens/auth/UserLoginScreen';
 import { ThemeProvider } from './src/theme/ThemeProvider';
+import HomeScreen from './src/screens/Dashboard/HomeScreen';
 
 const RootStack = createNativeStackNavigator<RootStackParamList>();
 const Tab = createBottomTabNavigator();
@@ -30,6 +31,7 @@ function MainTabs() {
   useEffect(() => {
     setTimeout(() => {
       setMenus([
+         { key: 'Home', label: 'Home', icon: 'home', component: HomeScreen }, 
         { key: 'Appointments', label: 'Appointments', icon: 'calendar', component: AppointmentsScreen },
         { key: 'Profile', label: 'Profile', icon: 'person', component: ProfilesScreen },
         { key: 'Settings', label: 'Settings', icon: 'settings', component: SettingsScreen },
