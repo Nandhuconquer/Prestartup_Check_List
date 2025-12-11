@@ -1,0 +1,26 @@
+{
+  "installationFolder": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android/build/intermediates/prefab_package/debug/prefab",
+  "gradlePath": ":react-native-worklets-core",
+  "packageInfo": {
+    "packageName": "react-native-worklets-core",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "rnworklets",
+        "moduleHeaders": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android/build/headers/rnworklets",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "x86",
+            "abiApi": 24,
+            "abiNdkMajor": 27,
+            "abiStl": "c++_shared",
+            "abiLibrary": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android/build/intermediates/cxx/Debug/4v2c4i22/obj/x86/librnworklets.so",
+            "abiAndroidGradleBuildJsonFile": "/Users/bvdev/CheckList_Main/Prestartup_Check_List/node_modules/react-native-worklets-core/android/.cxx/Debug/4v2c4i22/x86/android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}
