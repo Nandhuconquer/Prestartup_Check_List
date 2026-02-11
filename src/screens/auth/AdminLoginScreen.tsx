@@ -358,7 +358,7 @@ const AdminLoginScreen: React.FC = () => {
               <Text style={tw`text-[11px] text-slate-400`}>
                 {mode === 'admin'
                   ? "Don't have a super admin account? "
-                  : "Don't have an accounts? "}
+                  : "Don't have an account? "}
                 <Text
                   style={tw`text-red-500 font-semibold`}
                   onPress={() => navigation.navigate('Register')}
